@@ -1,0 +1,23 @@
+{
+    "name":"My progressive Web App",
+    "short_name":"My App",
+    "start_url": ".",
+    "background_color":"green",
+    "theme_color":"#009578",
+    "display":"standalone",
+    "icons":[
+        {
+        "src":"images/logo641.png",
+        "sizes":"64x64",
+        "type":"image/png"
+    },
+    {
+        "src":"images/logo64.png",
+        "sizes":"512x512",
+        "type":"image/png"  
+    }
+
+    ]
+
+
+}
